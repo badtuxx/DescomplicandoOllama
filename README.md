@@ -1,4 +1,4 @@
-# Descomplicando o Kubernetes
+# Descomplicando o Ollama
 ## DAY-17: Descomplicando Ollama
 
 ## Conteúdo do Day-16
